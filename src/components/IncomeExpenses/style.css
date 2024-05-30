@@ -1,0 +1,36 @@
+.inc-exp-container {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    gap: 15px;
+
+    width: 80%;
+
+    margin-bottom: 2rem;
+}
+
+
+.money-container {
+    width: 50%;
+    padding: 1rem;
+
+    text-align: center;
+    
+    background-color: #d4d6d8;
+    border-radius: 0.5rem;
+}
+
+
+.inc-title {
+    font-size: 1.5rem;
+    padding: .5rem;
+    color: #303133;
+}
+
+
+.money {
+    font-size: 1rem;
+    color: #303133;
+}
