@@ -18,3 +18,19 @@
         <img src="./assets/website(2).png" alt="website image" width="400px"></img>
     </p>
 </div>
+
+
+<br><br>
+
+
+<div id="Technologies">
+    <h2>Technologies</h2>
+    <ul>
+        <li>React</li>
+        <li>Javascript</li>
+        <li>CSS</li>
+    </ul>
+</div>
+
+
+<br><br>
