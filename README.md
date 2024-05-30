@@ -7,3 +7,14 @@
     </p>
     <p align="center"><a href="https://expense-tracker-red-rho.vercel.app/">Visit the project website</a></p>
 </div>
+
+
+<br><br>
+
+
+<div id="Gallery">
+    <p align="center">
+        <img src="./assets/website(1).png" alt="website image" width="400px"></img>
+        <img src="./assets/website(2).png" alt="website image" width="400px"></img>
+    </p>
+</div>
