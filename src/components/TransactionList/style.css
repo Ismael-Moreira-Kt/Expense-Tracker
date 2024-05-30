@@ -1,0 +1,28 @@
+.transaction-list {
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    width: 80%;
+    border-radius: 5%;
+
+    background-color: #d4d6d8;
+
+    margin-bottom: 2rem;
+}
+
+
+
+.history {
+    padding: 1rem 0;
+    font-size: 1.5rem;
+    color: #303133;
+}
+
+
+
+.list {
+    list-style: none;
+}
