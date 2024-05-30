@@ -1,0 +1,9 @@
+.page-title {
+    font-size: 2rem;
+    color: #d4d6d8;
+
+    text-align: center;
+    text-shadow: 1px -1px rgb(150, 160, 170);
+
+    padding: 3rem 0;
+}
